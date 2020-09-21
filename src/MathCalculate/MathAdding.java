@@ -24,6 +24,7 @@ public class MathAdding {
 				
 				int resultMult=helper.multiply();
 				System.out.println("the result of multipling is "+resultMult);
+				System.out.println("i am done github");
 			}
 	 }
 
